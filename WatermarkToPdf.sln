@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermarkToPdf", "WatermarkToPdf\WatermarkToPdf.csproj", "{56C9A0B8-C7B8-4D6B-B7B5-BCBE9005351A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".sln", ".sln", "{5D23D5F7-43D1-4881-AA09-D33C083273EB}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+		Directory.Packages.props = Directory.Packages.props
+		License.md = License.md
+		nuget.config = nuget.config
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56C9A0B8-C7B8-4D6B-B7B5-BCBE9005351A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C9A0B8-C7B8-4D6B-B7B5-BCBE9005351A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C9A0B8-C7B8-4D6B-B7B5-BCBE9005351A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C9A0B8-C7B8-4D6B-B7B5-BCBE9005351A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
